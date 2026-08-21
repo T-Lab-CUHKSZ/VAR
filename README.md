@@ -8,8 +8,6 @@
 ## News
 
 - **[2026.08.21]**: 🎉 Our [paper](https://openreview.net/forum?id=UTxO0tkHU2) is accepted to the EMNLP 2026 Main Conference!
-- **[2026.07.14]** We add register-separability, human-validation, uncertainty, threshold-robustness, and twelve-register multi-turn experiments.
-- **[2026.05.26]** Our code and reproducibility package are released with the submission.
 
 ## Why Do We Need Off-Distribution Voices?
 
@@ -42,10 +40,6 @@ An 84-cell design crosses register and prompt structure, with length-matched con
 ### SAGA-A4
 
 SAGA-A4 extends the attack into a fixed four-turn narrative progression without adversarial attacker-model feedback or per-target optimization.
-
-## Acknowledgement
-
-We thank the anonymous reviewers, Area Chairs, Senior Area Chairs, and Program Chairs for their constructive feedback.
 
 ## Citation
 
