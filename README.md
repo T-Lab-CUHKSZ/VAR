@@ -4,7 +4,7 @@
 
 [![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/luozhongze/ODV)
 [![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://arxiv.org/abs/2606.04483)
-[![arXiv](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://arxiv.org/abs/2606.04483)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.04483-blue)](https://arxiv.org/abs/2606.04483)
 
 ## News
 
