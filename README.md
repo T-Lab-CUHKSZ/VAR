@@ -2,12 +2,13 @@
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
-[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/T-Lab-CUHKSZ/Off-DistributionVoices)
-[![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://openreview.net/forum?id=UTxO0tkHU2)
+[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/luozhongze/ODV)
+[![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://arxiv.org/abs/2606.04483)
+[![arXiv](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://arxiv.org/abs/2606.04483)
 
 ## News
 
-- **[2026.08.21]**: 🎉 Our [paper](https://openreview.net/forum?id=UTxO0tkHU2) is accepted to the EMNLP 2026 Main Conference!
+- **[2026.08.21]**: 🎉 Our [paper](https://arxiv.org/abs/2606.04483) is accepted to the EMNLP 2026 Main Conference!
 
 ## Why Do We Need Off-Distribution Voices?
 
