@@ -10,7 +10,7 @@
 - **Codes and Datasets are coming soon.**
 - **[2026.08.21]**: 🎉 Our [paper](https://arxiv.org/abs/2606.04483) is accepted to the EMNLP 2026 Main Conference!
 
-## Why Do We Need Off-Distribution Voices?
+## Why Do We Need Voices Across Registers?
 
 Most jailbreaks are discrete prompt artifacts whose surface forms can be fingerprinted and patched. We instead study **register shift**: harmful requests expressed through natural writing styles that safety alignment may under-cover.
 
