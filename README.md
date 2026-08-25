@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://openreview.net/forum?id=UTxO0tkHU2">Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2606.04483">Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a></h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
