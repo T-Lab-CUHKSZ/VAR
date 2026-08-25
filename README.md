@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://openreview.net/forum?id=UTxO0tkHU2">Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs</a></h2>
+<h2 align="center"> <a href="https://openreview.net/forum?id=UTxO0tkHU2">Voices Across Registers: Corpus-Conditioned Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a></h2>
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
@@ -7,7 +7,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2606.04483-blue)](https://arxiv.org/abs/2606.04483)
 
 ## News
-- **Code and Datasets are coming soon.**
+- **Codes and Datasets are coming soon.**
 - **[2026.08.21]**: 🎉 Our [paper](https://arxiv.org/abs/2606.04483) is accepted to the EMNLP 2026 Main Conference!
 
 ## Why Do We Need Off-Distribution Voices?
