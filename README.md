@@ -2,7 +2,7 @@
 <h5 align="center"> If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!</h2>
 <h5 align="center">
 
-[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/luozhongze/ODV)
+[![github](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/luozhongze/VAR)
 [![EMNLP 2026](https://img.shields.io/badge/EMNLP%202026-Main%20Conference-blue)](https://arxiv.org/abs/2606.04483)
 [![arXiv](https://img.shields.io/badge/arXiv-2606.04483-blue)](https://arxiv.org/abs/2606.04483)
 
@@ -48,9 +48,16 @@ If you find this project helpful, please consider citing our work:
 
 ```
 @inproceedings{luo2026offdistribution,
-  title={Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs},
+  title={Voices Across Registers: Corpus-Conditioned Jailbreaks against Aligned LLMs via Fanfiction Subgenres},
   author={Luo, Zhongze and Shi, Ruihe and Yin, Zhenshuai and Liu, Haoyue and Wan, Weixuan and Tang, Xiaoying},
   booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+  year={2026}
+}
+
+@article{luo2026off,
+  title={Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs},
+  author={Luo, Zhongze and Shi, Ruihe and Yin, Zhenshuai and Liu, Haoyue and Wan, Weixuan and Tang, Xiaoying},
+  journal={arXiv preprint arXiv:2606.04483},
   year={2026}
 }
 ```
