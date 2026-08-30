@@ -53,11 +53,4 @@ If you find this project helpful, please consider citing our work:
   booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
   year={2026}
 }
-
-@article{luo2026off,
-  title={Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs},
-  author={Luo, Zhongze and Shi, Ruihe and Yin, Zhenshuai and Liu, Haoyue and Wan, Weixuan and Tang, Xiaoying},
-  journal={arXiv preprint arXiv:2606.04483},
-  year={2026}
-}
 ```
