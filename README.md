@@ -1,12 +1,10 @@
-<h1 align="center">Voices Across Registers</h1>
+<h2 align="center">
+  <a href="https://arxiv.org/abs/2606.04483">Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a>
+</h2>
 
-<p align="center">
-  <strong>Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</strong>
-</p>
-
-<p align="center">
-  Zhongze Luo · Ruihe Shi · Zhenshuai Yin · Haoyue Liu · Weixuan Wan · Xiaoying Tang
-</p>
+<h5 align="center">
+  If our project helps you, please give us a star ⭐ and cite our <a href="#citation">paper</a>!
+</h5>
 
 <p align="center">
   <a href="assets/paper/VAR_EMNLP_2026.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper PDF"></a>
