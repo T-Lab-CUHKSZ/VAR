@@ -15,7 +15,7 @@
 
 ## News
 
-- **[2026-08-30]** Camera-ready paper and publication-quality figures are available in [`assets/paper`](assets/paper/).
+- **[2026-08-30]** Paper and figures are available in [`assets/paper`](assets/paper/).
 - **[2026-08-21]** Our paper was accepted to the **EMNLP 2026 Main Conference**.
 - Code and safely shareable data artifacts are coming soon.
 
@@ -174,4 +174,4 @@ An earlier version is available as:
 
 ## Contact
 
-For questions about the paper or release, please contact [Zhongze Luo](mailto:zhongzeluo@link.cuhk.edu.cn) or [Xiaoying Tang](mailto:tangxiaoying@cuhk.edu.cn).
+For questions about the paper or release, please contact [Zhongze Luo](mailto:zhongzeluo@link.cuhk.edu.cn).
