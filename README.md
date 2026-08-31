@@ -170,6 +170,3 @@ An earlier version is available as:
 }
 ```
 
-## Contact
-
-For questions about the paper or release, please contact [Zhongze Luo](mailto:zhongzeluo@link.cuhk.edu.cn).
