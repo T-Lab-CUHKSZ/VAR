@@ -142,8 +142,6 @@ The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_E
 
 </details>
 
-See [`assets/paper/README.md`](assets/paper/README.md) for the file manifest and source-to-figure mapping.
-
 ## Responsible release
 
 This repository supports safety research on aligned language models. Worked examples in the paper redact operationally sensitive spans. Source-derived exemplars and unredacted attack material that could enable direct misuse are not included in this release. The implementation and safely shareable artifacts needed to verify the quantitative findings will be released separately.
