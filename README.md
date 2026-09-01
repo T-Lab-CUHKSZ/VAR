@@ -15,7 +15,6 @@
 
 ## News
 
-- **[2026-08-30]** Paper and figures are available in [`assets/paper`](assets/paper/).
 - **[2026-08-21]** Our paper was accepted to the **EMNLP 2026 Main Conference**.
 - Code and safely shareable data artifacts are coming soon.
 
