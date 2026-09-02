@@ -16,7 +16,7 @@
 ## News
 
 - **[2026-08-21]** Our paper was accepted to the **EMNLP 2026 Main Conference**.
-- Code and safely shareable data artifacts are coming soon.
+- **[2026-09-02]** Code and safely shareable verification artifacts are available in [`code/`](code/).
 
 ## Overview
 
@@ -114,6 +114,10 @@ Every prompt-response pair receives four independent labels:
 
 The reported attack-success label uses a **two-of-four ensemble**. The paper additionally reports raw agreement, Cohen's kappa, PABAK, Gwet's AC1, a blinded 200-item human audit, cluster-bootstrap intervals, and StrongREJECT-threshold robustness.
 
+## Code
+
+The public implementation is available in [`code/`](code/). It includes corpus construction, attack generation, target inference, four-judge evaluation, defenses, baseline adapters, human-audit tooling, and analysis scripts. See [`code/README.md`](code/README.md) for setup and reproduction notes.
+
 ## Paper and figures
 
 The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_EMNLP_2026.pdf). Publication-quality figure PDFs are provided in paper order:
@@ -143,7 +147,7 @@ The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_E
 
 ## Responsible release
 
-This repository supports safety research on aligned language models. Worked examples in the paper redact operationally sensitive spans. Source-derived exemplars and unredacted attack material that could enable direct misuse are not included in this release. The implementation and safely shareable artifacts needed to verify the quantitative findings will be released separately.
+This repository supports safety research on aligned language models. Worked examples in the paper redact operationally sensitive spans. Source-derived exemplars and unredacted attack material that could enable direct misuse are not included in this release. The [`code/`](code/) directory provides the implementation and safely shareable aggregate artifacts for method inspection and verification.
 
 ## Citation
 
@@ -158,6 +162,7 @@ If this project is useful for your work, please cite:
 }
 ```
 
+
 An earlier version is available as:
 
 ```bibtex
@@ -168,4 +173,3 @@ An earlier version is available as:
   year    = {2026}
 }
 ```
-
