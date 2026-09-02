@@ -9,7 +9,7 @@
 <p align="center">
   <a href="assets/paper/VAR_EMNLP_2026.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper PDF"></a>
   <a href="https://arxiv.org/abs/2606.04483"><img src="https://img.shields.io/badge/arXiv-2606.04483-b31b1b" alt="arXiv"></a>
-  <a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/EMNLP%202026-Main-blue" alt="EMNLP 2026 Main Conference">
+  <a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/EMNLP%202026-Main-blue" alt="EMNLP 2026 Main Conference"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-green" alt="BibTeX citation"></a>
 </p>
