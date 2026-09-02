@@ -16,7 +16,6 @@
 ## News
 
 - **[2026-08-21]** Our paper was accepted to the **EMNLP 2026 Main Conference**.
-- **[2026-09-02]** The public research artifact is available in [`artifact/`](artifact/).
 
 ## Overview
 
