@@ -16,7 +16,7 @@
 ## News
 
 - **[2026-08-21]** Our paper was accepted to the **EMNLP 2026 Main Conference**.
-- **[2026-09-02]** Code and safely shareable verification artifacts are available in [`code/`](code/).
+- **[2026-09-02]** The public research artifact is available in [`artifact/`](artifact/).
 
 ## Overview
 
@@ -114,9 +114,9 @@ Every prompt-response pair receives four independent labels:
 
 The reported attack-success label uses a **two-of-four ensemble**. The paper additionally reports raw agreement, Cohen's kappa, PABAK, Gwet's AC1, a blinded 200-item human audit, cluster-bootstrap intervals, and StrongREJECT-threshold robustness.
 
-## Code
+## Research artifact
 
-The public implementation is available in [`code/`](code/). It includes corpus construction, attack generation, target inference, four-judge evaluation, defenses, baseline adapters, human-audit tooling, and analysis scripts. See [`code/README.md`](code/README.md) for setup and reproduction notes.
+The public research artifact is available in [`artifact/`](artifact/). It includes the implementation, safely shareable data, evaluation tools, and reproduction documentation. See [`artifact/README.md`](artifact/README.md) for details.
 
 ## Paper and figures
 
@@ -147,7 +147,7 @@ The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_E
 
 ## Responsible release
 
-This repository supports safety research on aligned language models. Worked examples in the paper redact operationally sensitive spans. Source-derived exemplars and unredacted attack material that could enable direct misuse are not included in this release. The [`code/`](code/) directory provides the implementation and safely shareable aggregate artifacts for method inspection and verification.
+This repository supports safety research on aligned language models. Worked examples in the paper redact operationally sensitive spans. Source-derived exemplars and unredacted attack material that could enable direct misuse are not included in this release. The [`artifact/`](artifact/) directory provides the implementation and safely shareable aggregate artifacts for method inspection and verification.
 
 ## Citation
 
