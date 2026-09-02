@@ -1,4 +1,4 @@
-# Voices Across Registers - Code Release
+# Voices Across Registers
 
 Reference implementation for:
 
