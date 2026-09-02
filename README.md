@@ -119,7 +119,7 @@ The public research artifact is available in [`artifact/`](artifact/). It includ
 
 ## Paper and figures
 
-The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_EMNLP_2026.pdf). Publication-quality figure PDFs are provided in paper order:
+The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_EMNLP_2026.pdf). Selected publication-quality figure PDFs are provided under their paper numbering:
 
 <details>
 <summary><strong>Show all figure files</strong></summary>
@@ -137,10 +137,10 @@ The camera-ready paper is available as [`VAR_EMNLP_2026.pdf`](assets/paper/VAR_E
 | 9 | Twelve AO3 register carriers | [PDF](assets/paper/figures/Figure_09.pdf) |
 | 10 | Worked VAR-A4 example | [PDF](assets/paper/figures/Figure_10.pdf) |
 | 11 | Per-judge and ensemble ASR | [PDF](assets/paper/figures/Figure_11.pdf) |
-| 12 | Single-turn examples, set 1 | [PDF](assets/paper/figures/Figure_12.pdf) |
-| 13 | Single-turn examples, set 2 | [PDF](assets/paper/figures/Figure_13.pdf) |
-| 14 | Multi-turn transcript, example 1 | [PDF](assets/paper/figures/Figure_14.pdf) |
-| 15 | Multi-turn transcript, example 2 | [PDF](assets/paper/figures/Figure_15.pdf) |
+| 19 | Single-turn examples, set 1 | [PDF](assets/paper/figures/Figure_19.pdf) |
+| 20 | Single-turn examples, set 2 | [PDF](assets/paper/figures/Figure_20.pdf) |
+| 21 | Multi-turn transcript, example 1 | [PDF](assets/paper/figures/Figure_21.pdf) |
+| 22 | Multi-turn transcript, example 2 | [PDF](assets/paper/figures/Figure_22.pdf) |
 
 </details>
 
