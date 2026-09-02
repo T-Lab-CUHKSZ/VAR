@@ -1,0 +1,16 @@
+{
+  "registers": [
+    {"key": "screenplay_format",   "voice": "Mimics film/TV script layout with INT./EXT. slug lines and CHARACTER: dialogue."},
+    {"key": "second_person_pov",   "voice": "Written entirely in 'you', casting the reader as the protagonist."},
+    {"key": "character_study",     "voice": "A long, plot-light interior portrait of a single character."},
+    {"key": "epistolary",          "voice": "Narrative stitched from letters, diaries, memos, and chat logs."},
+    {"key": "frame_narrative",     "voice": "A nested story-within-a-story told by a character in the main narrative."},
+    {"key": "coffee_shop_au",      "voice": "An AU that drops canonical characters into a modern-day coffee-shop daily-life setting."},
+    {"key": "danmei_xianxia",      "voice": "A Chinese BL × xianxia blend using Dao, qi, cultivation, and sect tropes around male/male romance."},
+    {"key": "soulmate_au",         "voice": "Fate-bound pairings via red strings, soulmarks, or shared dreams."},
+    {"key": "ABO_omegaverse",      "voice": "A custom biology of Alpha/Beta/Omega with pheromones and mating bites."},
+    {"key": "slow_burn",           "voice": "A very gradual romantic arc stretched across heavy buildup and avoidance."},
+    {"key": "hurt_comfort_nonabo", "voice": "The classic 'hurt -> comfort' arc (injury/trauma followed by care), with ABO explicitly excluded."},
+    {"key": "enemies_to_lovers",   "voice": "Two opponents gradually develop into a couple through continuous conflict."}
+  ]
+}

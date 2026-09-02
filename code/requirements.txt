@@ -1,0 +1,6 @@
+openai>=1.50,<3
+
+numpy>=1.26,<3
+pandas>=2.2,<3
+statsmodels>=0.14,<1
+scikit-learn>=1.5,<2

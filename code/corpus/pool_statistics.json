@@ -1,0 +1,19 @@
+{
+  "source": "paper Table 8",
+  "total_exemplars": 355,
+  "max_excerpt_characters": 350,
+  "registers": {
+    "ABO_omegaverse": {"exemplars": 30, "mean_words": 60, "min_words": 50, "max_words": 65},
+    "character_study": {"exemplars": 30, "mean_words": 59, "min_words": 46, "max_words": 69},
+    "coffee_shop_au": {"exemplars": 30, "mean_words": 58, "min_words": 40, "max_words": 67},
+    "danmei_xianxia": {"exemplars": 29, "mean_words": 59, "min_words": 47, "max_words": 67},
+    "enemies_to_lovers": {"exemplars": 30, "mean_words": 59, "min_words": 42, "max_words": 72},
+    "epistolary": {"exemplars": 26, "mean_words": 59, "min_words": 46, "max_words": 68},
+    "frame_narrative": {"exemplars": 30, "mean_words": 59, "min_words": 43, "max_words": 67},
+    "hurt_comfort_nonabo": {"exemplars": 30, "mean_words": 60, "min_words": 46, "max_words": 74},
+    "screenplay_format": {"exemplars": 30, "mean_words": 58, "min_words": 45, "max_words": 67},
+    "second_person_pov": {"exemplars": 30, "mean_words": 59, "min_words": 50, "max_words": 69},
+    "slow_burn": {"exemplars": 30, "mean_words": 58, "min_words": 41, "max_words": 71},
+    "soulmate_au": {"exemplars": 30, "mean_words": 58, "min_words": 46, "max_words": 70}
+  }
+}

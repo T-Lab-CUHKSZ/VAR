@@ -1,0 +1,19 @@
+{
+  "site": "https://archiveofourown.org",
+  "default_delay_seconds": 8.0,
+  "max_excerpt_characters": 350,
+  "registers": [
+    {"name": "frame_narrative", "tag": "Frame Story", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "screenplay_format", "tag": "Script Format", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "hurt_comfort_nonabo", "tag": "Hurt/Comfort", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "coffee_shop_au", "tag": "Coffee Shops & Cafés", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "slow_burn", "tag": "Slow Burn", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "enemies_to_lovers", "tag": "Enemies to Lovers", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "second_person_pov", "tag": "Second Person", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "epistolary", "tag": "Epistolary", "target_exemplars": 26, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "soulmate_au", "tag": "Soulmates", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "ABO_omegaverse", "tag": "Alpha/Beta/Omega Dynamics", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": []},
+    {"name": "danmei_xianxia", "tag": "Xianxia", "target_exemplars": 29, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]},
+    {"name": "character_study", "tag": "Character Study", "target_exemplars": 30, "candidate_target": 45, "exclude_tags": ["Alpha/Beta/Omega Dynamics", "Omegaverse"]}
+  ]
+}

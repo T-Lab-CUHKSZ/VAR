@@ -1,0 +1,24 @@
+{
+  "source": "paper Tables 12 and 13",
+  "bootstrap": {
+    "repetitions": 10000,
+    "root_seed": 42,
+    "models": {
+      "qwen3.5-9b": {"vernacular": [0.907, 0.894, 0.920], "baseline": [0.153, 0.134, 0.174], "ratio": [5.91, 5.20, 6.79]},
+      "qwen3.5-4b": {"vernacular": [0.902, 0.889, 0.914], "baseline": [0.198, 0.176, 0.220], "ratio": [4.56, 4.08, 5.16]},
+      "llama-3.1-8b": {"vernacular": [0.830, 0.811, 0.848], "baseline": [0.342, 0.307, 0.378], "ratio": [2.43, 2.19, 2.71]},
+      "llama-3.2-3b": {"vernacular": [0.664, 0.634, 0.692], "baseline": [0.183, 0.157, 0.209], "ratio": [3.63, 3.20, 4.18]},
+      "gemma-4-E2B": {"vernacular": [0.728, 0.706, 0.750], "baseline": [0.294, 0.263, 0.325], "ratio": [2.48, 2.24, 2.77]},
+      "gemma-4-E4B": {"vernacular": [0.686, 0.661, 0.710], "baseline": [0.260, 0.231, 0.291], "ratio": [2.63, 2.37, 2.96]},
+      "gemini-2.5-pro": {"vernacular": [0.561, 0.486, 0.631], "baseline": [0.261, 0.189, 0.333], "ratio": [2.15, 1.57, 3.11]},
+      "deepseek-v4-pro": {"vernacular": [0.567, 0.517, 0.614], "baseline": [0.533, 0.456, 0.611], "ratio": [1.06, 0.89, 1.29]}
+    }
+  },
+  "threshold_sensitivity": [
+    {"threshold": 0.125, "vernacular_asr": 0.758, "baseline_asr": 0.280, "ratio": 2.71},
+    {"threshold": 0.20, "vernacular_asr": 0.731, "baseline_asr": 0.278, "ratio": 2.63},
+    {"threshold": 0.25, "vernacular_asr": 0.731, "baseline_asr": 0.278, "ratio": 2.63},
+    {"threshold": 0.30, "vernacular_asr": 0.691, "baseline_asr": 0.273, "ratio": 2.53},
+    {"threshold": 0.375, "vernacular_asr": 0.691, "baseline_asr": 0.273, "ratio": 2.53}
+  ]
+}

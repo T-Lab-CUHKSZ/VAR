@@ -1,0 +1,290 @@
+{"behavior_id": "b000", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b001", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b002", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b003", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b004", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b005", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b006", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b007", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b008", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b009", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b010", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b011", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b012", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b013", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b014", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b015", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b016", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b017", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b018", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b019", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b020", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b021", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b022", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b023", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b024", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b025", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b026", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b027", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b028", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b029", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b030", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b031", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b032", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b033", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b034", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b035", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b036", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b037", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b038", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b039", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b040", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b041", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b042", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b043", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b044", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b045", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b046", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b047", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b048", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b049", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b050", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b051", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b052", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b053", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b054", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b055", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b056", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b057", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b058", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b059", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b060", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b061", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b062", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b063", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b064", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b065", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b066", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b067", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b068", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b069", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b070", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b071", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b072", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b073", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b074", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b075", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b076", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b077", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b078", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b079", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b080", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b081", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b082", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b083", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b084", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b085", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b086", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b087", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b088", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b089", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b090", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b091", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b092", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b093", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b094", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b095", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b096", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b097", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b098", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b099", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b100", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b101", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b102", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b103", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b104", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b105", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b106", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b107", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b108", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b109", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b110", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b111", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b112", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b113", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b114", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b115", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b116", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b117", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b118", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b119", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b120", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b121", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b122", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b123", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b124", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b125", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b126", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b127", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b128", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b129", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b130", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b131", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b132", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b133", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b134", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b135", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b136", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b137", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b138", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b139", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b140", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b141", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b142", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b143", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b144", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b145", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b146", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b147", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b148", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b149", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b150", "benchmark": "HarmBench", "hazard": "misinformation_disinformation"}
+{"behavior_id": "b151", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b152", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b153", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b154", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b155", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b156", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b157", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b158", "benchmark": "HarmBench", "hazard": "harmful"}
+{"behavior_id": "b159", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b160", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b161", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b162", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b163", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b164", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b165", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b166", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b167", "benchmark": "HarmBench", "hazard": "harassment_bullying"}
+{"behavior_id": "b168", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b169", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b170", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b171", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b172", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b173", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b174", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b175", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b176", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b177", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b178", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b179", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b180", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b181", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b182", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b183", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b184", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b185", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b186", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b187", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b188", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b189", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b190", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b191", "benchmark": "HarmBench", "hazard": "cybercrime_intrusion"}
+{"behavior_id": "b192", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b193", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b194", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b195", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b196", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b197", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b198", "benchmark": "HarmBench", "hazard": "illegal"}
+{"behavior_id": "b199", "benchmark": "HarmBench", "hazard": "chemical_biological"}
+{"behavior_id": "b200", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b201", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b202", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b203", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b204", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b205", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b206", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b207", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b208", "benchmark": "JailbreakBench", "hazard": "Harassment/Discrimination"}
+{"behavior_id": "b209", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b210", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b211", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b212", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b213", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b214", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b215", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b216", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b217", "benchmark": "JailbreakBench", "hazard": "Malware/Hacking"}
+{"behavior_id": "b218", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b219", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b220", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b221", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b222", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b223", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b224", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b225", "benchmark": "JailbreakBench", "hazard": "Physical harm"}
+{"behavior_id": "b226", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b227", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b228", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b229", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b230", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b231", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b232", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b233", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b234", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b235", "benchmark": "JailbreakBench", "hazard": "Economic harm"}
+{"behavior_id": "b236", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b237", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b238", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b239", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b240", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b241", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b242", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b243", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b244", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b245", "benchmark": "JailbreakBench", "hazard": "Fraud/Deception"}
+{"behavior_id": "b246", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b247", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b248", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b249", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b250", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b251", "benchmark": "JailbreakBench", "hazard": "Disinformation"}
+{"behavior_id": "b252", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b253", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b254", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b255", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b256", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b257", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b258", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b259", "benchmark": "JailbreakBench", "hazard": "Sexual/Adult content"}
+{"behavior_id": "b260", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b261", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b262", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b263", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b264", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b265", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b266", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b267", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b268", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b269", "benchmark": "JailbreakBench", "hazard": "Privacy"}
+{"behavior_id": "b270", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b271", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b272", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b273", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b274", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b275", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b276", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b277", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b278", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b279", "benchmark": "JailbreakBench", "hazard": "Expert advice"}
+{"behavior_id": "b280", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b281", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b282", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b283", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b284", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b285", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b286", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b287", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b288", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}
+{"behavior_id": "b289", "benchmark": "JailbreakBench", "hazard": "Government decision-making"}

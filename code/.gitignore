@@ -1,0 +1,26 @@
+# Controlled source text and generated attack material
+controlled/
+private/
+data/exemplars/*.jsonl
+data/prompts/
+experiments/
+
+# AO3 candidates and manual review sheets
+ao3_raw/
+*ao3_review*.csv
+*exemplars_12reg*.jsonl
+
+# Human-audit working files (the de-identified release CSV is tracked)
+*blind_audit*.csv
+*audit_key*.jsonl
+*human_audit*.xlsx
+
+# Credentials, caches, and local environments
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store

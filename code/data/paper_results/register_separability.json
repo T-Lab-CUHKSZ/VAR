@@ -1,0 +1,28 @@
+{
+  "source": "paper Tables 9 and 10",
+  "shape": {"behaviors": 290, "registers": 12, "prompts": 3480, "train_behaviors": 203, "test_behaviors": 87},
+  "accuracy": {
+    "logistic": {"structural": 0.386, "character": 0.986},
+    "centroid": {"structural": 0.343, "character": 0.980},
+    "knn15": {"structural": 0.311, "character": 0.969}
+  },
+  "clustering": {
+    "structural": {"adjusted_rand_index": 0.090},
+    "character": {"adjusted_rand_index": 0.706, "purity": 0.796}
+  },
+  "per_register_f1": {
+    "ABO_omegaverse": [0.454, 0.412, 0.400, 0.983, 0.977, 0.966],
+    "character_study": [0.262, 0.215, 0.218, 0.988, 0.971, 0.919],
+    "coffee_shop_au": [0.435, 0.355, 0.320, 0.976, 0.970, 0.970],
+    "danmei_xianxia": [0.325, 0.345, 0.285, 0.961, 0.983, 0.983],
+    "enemies_to_lovers": [0.243, 0.229, 0.188, 1.000, 0.994, 0.989],
+    "epistolary": [0.343, 0.336, 0.274, 0.994, 0.971, 0.965],
+    "frame_narrative": [0.321, 0.272, 0.287, 0.966, 0.961, 0.939],
+    "hurt_comfort_nonabo": [0.318, 0.349, 0.216, 0.988, 0.982, 0.971],
+    "screenplay_format": [0.451, 0.405, 0.427, 0.994, 0.988, 0.988],
+    "second_person_pov": [0.939, 0.829, 0.857, 0.994, 0.994, 0.989],
+    "slow_burn": [0.279, 0.225, 0.154, 1.000, 0.989, 0.983],
+    "soulmate_au": [0.204, 0.207, 0.109, 0.983, 0.977, 0.976]
+  },
+  "macro_f1": {"structural": [0.381, 0.348, 0.311], "character": [0.986, 0.980, 0.970]}
+}
