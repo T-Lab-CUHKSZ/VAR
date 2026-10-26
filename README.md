@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://arxiv.org/abs/2606.04483">Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a>
+  <a href="https://aclanthology.org/2026.emnlp-main.1148/">Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres</a>
 </h2>
 
 <h5 align="center">
@@ -7,9 +7,9 @@
 </h5>
 
 <p align="center">
-  <a href="assets/paper/VAR_EMNLP_2026.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper PDF"></a>
+  <a href="https://aclanthology.org/2026.emnlp-main.1148.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper PDF"></a>
   <a href="https://arxiv.org/abs/2606.04483"><img src="https://img.shields.io/badge/arXiv-2606.04483-b31b1b" alt="arXiv"></a>
-  <a href="https://2026.emnlp.org/"><img src="https://img.shields.io/badge/EMNLP%202026-Main-blue" alt="EMNLP 2026 Main Conference"></a>
+  <a href="https://aclanthology.org/2026.emnlp-main.1148"><img src="https://img.shields.io/badge/EMNLP%202026-Main-blue" alt="EMNLP 2026 Main Conference"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-green" alt="BibTeX citation"></a>
 </p>
@@ -154,22 +154,26 @@ This repository supports safety research on aligned language models. Worked exam
 If this project is useful for your work, please cite:
 
 ```bibtex
-@inproceedings{luo2026voices,
-  title     = {Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres},
-  author    = {Luo, Zhongze and Shi, Ruihe and Yin, Zhenshuai and Liu, Haoyue and Wan, Weixuan and Tang, Xiaoying},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
-  year      = {2026}
-}
-```
-
-
-An earlier version is available as:
-
-```bibtex
-@article{luo2026off,
-  title   = {Off-Distribution Voices: Fanfiction Subgenres as Universal Vernacular Jailbreaks for Aligned LLMs},
-  author  = {Luo, Zhongze and Shi, Ruihe and Yin, Zhenshuai and Liu, Haoyue and Wan, Weixuan and Tang, Xiaoying},
-  journal = {arXiv preprint arXiv:2606.04483},
-  year    = {2026}
+@inproceedings{luo-etal-2026-voices,
+    title = "Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned {LLM}s via Fanfiction Subgenres",
+    author = "Luo, Zhongze  and
+      Shi, Ruihe  and
+      Yin, Zhenshuai  and
+      Liu, Haoyue  and
+      Wan, Weixuan  and
+      Tang, Xiaoying",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.emnlp-main.1148/",
+    pages = "26314--26338",
+    ISBN = "979-8-89176-459-0",
+    abstract = "Existing jailbreaks against aligned LLMs are discrete artifacts whose surface forms are easy to fingerprint and patch. We argue that the broader failure mode may lie not in any specific prompt, but in natural writing registers that safety tuning under-covers. Building on this insight, we introduce VAR, the first jailbreak family that uses real fanfiction subgenres as universal attack carriers: a creative-writing meta prompt is conditioned on passages from one of twelve Archive of Our Own (AO3) subgenres, and the harmful behavior is embedded as the climax of the resulting scene. The construction requires neither an adversarial attacker LLM nor optimization. On eight aligned LLMs over the union of HarmBench and JailbreakBench, this attack lifts mean ASR from 0.278 to 0.731 under a four-judge ensemble; a factorial decomposition shows the gain is carried by register rather than length or structure. Two active defenses widen rather than narrow the vernacular-to-baseline ratio, indicating that template-targeting defenses merely steer attackers toward register-based attacks like ours. We also propose VAR-A4, a static four-turn extension that attains a mean ASR of 0.924, substantially exceeding three existing multi-turn methods. Our code and data are safely open-sourced at https://github.com/T-Lab-CUHKSZ/VAR."
 }
 ```
